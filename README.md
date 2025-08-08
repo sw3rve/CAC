@@ -28,3 +28,14 @@
   ```bat
   python --version
 
+3) **Open a terminal in the script folder**  
+   - **Windows**:  
+     - Press `Win + R`, type `cmd`, and hit **Enter**.  
+     - Navigate to the folder where you unzipped the files:  
+       cd path\to\unzipped\folder
+
+4) **Run the script**  
+   - **Windows**:  
+     python "Cyber Awareness Challenge 2025.py"
+
+> 💡 **Tip:** If you get a `ModuleNotFoundError`, you may need to install required packages
