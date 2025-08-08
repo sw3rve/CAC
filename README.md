@@ -11,7 +11,6 @@
 
 - **OS:** Windows 10/11, macOS 12+, or Ubuntu 22.04+
 - **Python:** 3.10–3.12
-- (Optional) Google Chrome + ChromeDriver **or** Firefox + GeckoDriver if the script uses Selenium.
 
 ## Quick Start (No Git required)
 
