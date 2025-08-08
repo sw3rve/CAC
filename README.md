@@ -3,7 +3,7 @@
 > Simple script to streamline completing the annual Cyber Awareness training.
 
 ⚠️ **Disclaimer**
-- This project is for educational use. Automating government/enterprise training may violate policy or terms of use. **Use at your own risk** and only with permission from your organization. I’m not responsible for any misuse, account actions, or policy violations.
+- This project is for educational use.  **Use at your own risk** and only with permission from your organization. I’m not responsible for any misuse, account actions, or policy violations.
 
 ---
 
