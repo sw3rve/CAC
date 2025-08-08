@@ -16,7 +16,7 @@
 
 1) **Download the repo**
    - Click the green **Code** button → **Download ZIP**, then unzip it.
-   - Or download the latest **Release** (recommended) from the Releases panel.
+   - Or just look at the code and copy/paste it yourself in a new file.
 
 2) **Install Python**
 
