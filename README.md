@@ -1,6 +1,6 @@
 # Cyber Awareness Challenge
 
-> Simple script to streamline completing the annual Cyber Awareness training.
+> Simple script to automate the annual Cyber Awareness training.
 
 ⚠️ **Disclaimer**
 - This project is for educational use.  **Use at your own risk** and only with permission from your organization. I’m not responsible for any misuse, account actions, or policy violations.
