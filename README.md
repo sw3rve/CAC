@@ -1,4 +1,4 @@
-# Cyber Awareness Challenge (Automation)
+# Cyber Awareness Challenge
 
 > Simple script to streamline completing the annual Cyber Awareness training.
 
